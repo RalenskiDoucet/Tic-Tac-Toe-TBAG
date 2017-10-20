@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\ralenski doucet\source\repos\tic tac toe tbag\tic tac toe tbag\main.cpp(7): error C3867: 'PlayingBoard::TurnOrder': non-standard syntax; use '&' to create a pointer to member
+c:\users\ralenski doucet\source\repos\tic tac toe tbag\tic tac toe tbag\main.cpp(8): error C3867: 'PlayingBoard::GetMove': non-standard syntax; use '&' to create a pointer to member
+c:\users\ralenski doucet\source\repos\tic tac toe tbag\tic tac toe tbag\main.cpp(9): error C2143: syntax error: missing ';' before '}'
+  TicTacToe.cpp
+  Generating Code...
